@@ -36,4 +36,6 @@ VALUES
 (2,"小王",1,"客户经理","2021-07-07","17777777778"),
 (3,"小李",2,"销售经理","2019-08-08","17777777779");
 
-演示：
+效果演示：
+
+![Image text](https://github.com/AlxMan/stage2Model3/blob/master/src/main/webapp/WEB-INF/image/img_1.png)
