@@ -38,4 +38,4 @@ VALUES
 
 效果演示：
 
-![Image text](https://github.com/AlxMan/stage2Model3/blob/master/src/main/webapp/WEB-INF/image/img_1.png)
+![Image text](https://github.com/AlxMan/managementSystem/blob/master/src/main/webapp/img/2021.02.28.02.43.mp4)
