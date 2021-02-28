@@ -39,4 +39,3 @@ VALUES
 效果演示：
 
 ![Watch the video](https://github.com/AlxMan/managementSystem/blob/master/src/main/webapp/img/2021.02.28.02.43.mp4)
-<a href="https://github.com/AlxMan/managementSystem/blob/master/src/main/webapp/img/2021.02.28.02.43.mp4"</a>
